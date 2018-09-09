@@ -1,0 +1,25 @@
+{
+  "name": "stackoverflow",
+  "version": "1.0.0",
+  "description": "This is a lite version of Stack Overflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okirordan/stackoverflow-lite.git"
+  },
+  "keywords": [
+    "Stackoverflow"
+  ],
+  "author": "okiror",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okirordan/stackoverflow-lite/issues"
+  },
+  "homepage": "https://github.com/okirordan/stackoverflow-lite#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
