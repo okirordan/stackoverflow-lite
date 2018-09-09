@@ -2,8 +2,8 @@ const express = require('express');
 
 const app = express();
 
-const questionRoutes = require('./api/routes/questions');
-const answerRoutes = require('./api/routes/answers');
+const questionRoutes = require('./api/v1/routes/questions');
+const answerRoutes = require('./api/v1/routes/answers');
 
 
 
